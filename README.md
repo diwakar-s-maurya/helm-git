@@ -67,3 +67,7 @@ helm repo list
 ```
 
 Now that you have added the repository, start using it as any other regular repository.
+
+```bash
+helm install myhelmrepo/myapplication
+```
