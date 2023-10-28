@@ -1,7 +1,7 @@
 name: "helm-git"
 version: "1.0.0"
 description: |-
-  Let's you use private gitlab repositories easily
+  Let's you use private github/gitlab/bitbucket repositories easily
 downloaders:
 - command: "getfile.sh"
   protocols:
